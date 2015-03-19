@@ -1,5 +1,7 @@
 Use memcached and the [memcached extension](http://php.net/manual/en/book.memcached.php) to provide a backing store for the WordPress object cache.
 
+This is forked from [Memcached Object Cache](http://wordpress.org/extend/plugins/memcached/) to use [Memcached](http://php.net/manual/en/book.memcached.php) instead of PECL Memcache
+
 ## Description
 Memcached Object Cache provides a persistent backend for the WordPress object cache. A memcached server and the PECL memcache extension are required.
 
