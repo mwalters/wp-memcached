@@ -29,41 +29,39 @@ The top level array keys, are cache groups, where 'default' corresponds to any c
 
 Possible cache groups are:
 
-`
-{$taxonomy}_relationships
-{$meta_type}_meta
-{$taxonomy}_relationships
-blog-details
-blog-id-cache
-blog-lookup
-bookmark
-calendar
-category
-comment
-counts
-general
-global-posts
-options
-plugins
-post_ancestors
-post_meta
-posts
-rss
-site-lookup
-site-options
-site-transient
-terms
-themes
-timeinfo
-transient
-user_meta
-useremail
-userlogins
-usermeta
-users
-userslugs
-widget
-`
+* {$taxonomy}_relationships
+* {$meta_type}_meta
+* {$taxonomy}_relationships
+* blog-details
+* blog-id-cache
+* blog-lookup
+* bookmark
+* calendar
+* category
+* comment
+* counts
+* general
+* global-posts
+* options
+* plugins
+* post_ancestors
+* post_meta
+* posts
+* rss
+* site-lookup
+* site-options
+* site-transient
+* terms
+* themes
+* timeinfo
+* transient
+* user_meta
+* useremail
+* userlogins
+* usermeta
+* users
+* userslugs
+* widget
 
 ## Changelog
 
